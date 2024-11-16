@@ -1,6 +1,6 @@
 Sentiment Analysis on E-commerce Dataset
 
-I'm excited to share my recent project that leverages the power of transformers and the Hugging Face library for sentiment analysis on an e-commerce dataset. The goal of this project was to analyze product sentiment using two models: bert-base-uncased and microsoft/MiniLM-L12-H384-uncased.
+This leverages the power of transformers and the Hugging Face library for sentiment analysis on an e-commerce dataset. The goal of this project was to analyze product sentiment using two models: bert-base-uncased and microsoft/MiniLM-L12-H384-uncased.
 
 Dataset and Preprocessing
 
